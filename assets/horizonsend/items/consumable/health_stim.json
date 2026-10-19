@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "horizonsend:item/consumble/health_stim"
+        "model": "horizonsend:item/consumable/health_stim"
     }
 }
