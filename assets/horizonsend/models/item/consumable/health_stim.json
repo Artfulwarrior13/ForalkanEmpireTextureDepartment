@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "horizonsend:item/consumable/health_stim"
+        "layer0": "horizonsend:item/consumable/health_stim_new"
     }
 }
