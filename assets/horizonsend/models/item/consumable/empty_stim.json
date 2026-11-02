@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "horizonsend:item/consumable/empty_stim_new"
+        "layer0": "horizonsend:item/consumable/empty_stim"
     }
 }
