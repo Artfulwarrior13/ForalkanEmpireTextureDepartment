@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "horizonsend:item/consumable/resistance_stim_new"
+        "model": "horizonsend:item/consumable/resistance_stim"
     }
 }
